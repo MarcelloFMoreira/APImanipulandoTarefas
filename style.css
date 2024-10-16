@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f0f0;
+}
+h1 {
+    color: #333;
+}
+.tarefa {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.tarefa.completed {
+    background-color: #d4edda;
+}
+.tarefa.pending {
+    background-color: #f8d7da;
+}
+button {
+    margin: 5px;
+}
