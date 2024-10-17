@@ -31,21 +31,6 @@ Antes de executar o projeto, certifique-se de que você tem:
 
 
 
-### Configuração do Banco de Dados
-- Crie um banco de dados no SQL Server chamado PythonSQL.
-- Crie uma tabela chamada Tarefas com a seguinte estrutura:
-
-CREATE TABLE Tarefas (
-    id INT IDENTITY(1,1) PRIMARY KEY,
-    nome_tarefa NVARCHAR(255),
-    stat NVARCHAR(50)
-);
-
-
-# Gerenciador de Tarefas
-
-Este é um simples gerenciador de tarefas usando Flask e SQL Server.
-
 ## Configuração do Banco de Dados
 
 1. Crie um banco de dados no SQL Server chamado `PythonSQL`.
