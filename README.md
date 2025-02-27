@@ -48,7 +48,7 @@ Antes de executar o projeto, certifique-se de que você tem:
 
 ### Clone o repositório:
 
-    git clone https://github.com/seu-usuario/gerenciador-de-tarefas.git
+    git clone https://github.com/MarcelloFMoreira/APImanipulandoTarefas.git
 
 ### Navegue até o diretório do projeto:
 
